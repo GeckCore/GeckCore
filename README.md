@@ -68,6 +68,5 @@
 `>> ESTABLECIENDO CONEXIÓN...`
 
 [![](https://img.shields.io/badge/Neural_Link-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000&borderColor=00FF00)](https://github.com/GeckCore)
-[![](https://img.shields.io/badge/Transmission-Email-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF00&labelColor=000000&borderColor=00FF00)](mailto:tu-correo@geckcore.io)
 
 </div>
