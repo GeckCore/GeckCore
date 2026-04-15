@@ -1,92 +1,62 @@
-# 🕵️ AI ABUSER / GeckCore
-
 <div align="center">
 
-<img src="https://example.com/geckcore_pulsing_header.gif" alt="GeckCore Bio-Electronic Pulsing Logo" width="300">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=120&section=header&text=GECKCORE&fontSize=60&fontColor=000000&fontAlignY=45&desc=AI%20ABUSER&descAlignY=75&descSize=20"/>
 
-## The Bio-Electronic Nexus for Unconventional Automation
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Ingeniería+Inversa;Desarrollo+de+Bots;Manipulación+de+Algoritmos;Automatización+de+Sistemas" alt="Typing SVG" /></a>
 
-*AI Abuser / GeckCore* is a specialized laboratory dedicated to probing the boundaries of automated systems, detecting anomalies, and synthesizing advanced, adaptive bots. We merge organic adaptability with synthetic precision to engineer unique solutions.
+<br>
+
+*Adaptabilidad orgánica. Precisión sintética. Operando al límite de los sistemas automatizados.*
 
 </div>
 
 ---
 
-## `GECKCORE` BIO-CYBERNETIC SYSTEMS
+### ⚙️ NÚCLEO OPERATIVO
 
-<img src="https://example.com/bio-cybernetic-separator.gif" alt="Bio-Cybernetic Separation Line" width="100%">
-
-### `SYSTEM.01: ANOMALY_DETECTION` (Detected Fraud, Exposed Manipulation)
-
-We use our specialized forensic tools, like `star-forensics`, to parse complex social proof and isolate artificial engagement. We don't just see a star count; we see the statistical heartbeat.
-
-### `SYSTEM.02: AI_PROBING & ABUSER` (Mastering the Unpredictable)
-
-A specialized program to challenge, stress-test, and find the structural flaws within modern AI implementations. We don't just use AI; we probe its operational limits.
-
-### `SYSTEM.03: AUTOMATION_ORCHESTRATION` (Advanced Social & Data Bots)
-
-From sophisticated social media simulation platforms to distributed data-scraping swarms, we design bots that adapt, evade, and integrate perfectly with their environments.
-
----
-
-## `CORE` FEATURED SYSTEMS
+Diseño arquitecturas orientadas a romper barreras estadísticas, automatizar interacciones en redes y realizar análisis forense de datos. Rendimiento crudo, sin fricción.
 
 <div align="center">
 
-| System | Description | Status |
-|---|---|---|
-| **[🕵️ star-forensics](https://github.com/GeckCore/star-forensics)** | The initial, stable forensic engine for auditing GitHub star integrity. | `DEPLOYED.v0.1.0` |
-| **`[CONFIDENTIAL].social`** | An advanced, multi-persona social media simulation platform with AI-driven adaptability. | `ACTIVE_EXPERIMENT` |
-| **`[CONFIDENTIAL].abuse`** | A suite of tools designed to probe and identify vulnerabilities in large-scale automated defenses. | `UNDER_DEVELOPMENT` |
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,docker,linux,github,bash,regex,selenium,js,nodejs,postgres&theme=dark" />
+</a>
 
 </div>
 
 ---
 
-## `GECK` ADAPTIVE TECH STACK
-
-<img src="https://example.com/stack-separator.gif" alt="Adaptive Tech Stack Separation Line" width="100%">
+### 📊 TELEMETRÍA
 
 <div align="center">
 
-![Python](https://example.com/icons/python.svg?color=gecko-green) ![HTTPX](https://example.com/icons/httpx.svg?color=gecko-green) ![Pandas](https://example.com/icons/pandas.svg?color=gecko-green) ![Docker](https://example.com/icons/docker.svg?color=gecko-green) ![Redis](https://example.com/icons/redis.svg?color=gecko-green)
-
-*(All icons are customized with a vibrant gecko-green neon border)*
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000&border_color=00ff00" alt="GitHub Stats" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=dark&hide_border=false&background=000000&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff&stroke=00ff00&border=00ff00" alt="GitHub Streak" width="48%">
 
 </div>
 
 ---
 
-## `CORE` OPERATIONAL DATA
+### 🔬 SISTEMAS DESPLEGADOS
 
 <div align="center">
 
-<img src="https://example.com/custom_github_stats_card.svg?username=YOUR_USERNAME&theme=geckcore_dark&show_icons=true" alt="Custom GeckCore Github Stats Card" width="48%">
-<img src="https://example.com/custom_wakatime_stats_card.svg?username=YOUR_WAKATIME&theme=geckcore_dark&show_icons=true" alt="Custom GeckCore Wakatime Stats Card" width="48%">
+<a href="https://github.com/TU_USUARIO_AQUI/star-forensics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO_AQUI&repo=star-forensics&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=000000&border_color=00ff00" alt="Star Forensics">
+</a>
 
-*(Custom themed cards with glowing green text, bio-cybernetic traces, and the GeckCore logo integrated)*
+<a href="https://github.com/TU_USUARIO_AQUI/otro-repo-tuyo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO_AQUI&repo=otro-repo-tuyo&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=000000&border_color=00ff00" alt="Repo 2">
+</a>
 
 </div>
 
 ---
 
-## `GECKCORE` NEURAL LINK
-
 <div align="center">
 
-| Channel | Link |
-|---|---|
-| **Primary Repository:** | [GeckCore on GitHub](https://github.com/GeckCore) |
-| **Neural Transmission (Email):** | `neural.transmission@geckcore.invalid` |
-| **Confidential Comms (Signal):** | `[REQUEST]` |
-
-</div>
-
-<img src="https://example.com/footer-separator.gif" alt="GeckCore Footer Separation Line" width="100%">
-
-<div align="center">
-
-*GeckCore: Organic adaptability, synthesized precision. We verify, we probe, we engineer.* 🔬🦎💚
+<a href="mailto:tu-correo@ejemplo.com">
+  <img src="https://img.shields.io/badge/LINK-ESTABLECER_CONEXIÓN-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF00&borderColor=00FF00" />
+</a>
 
 </div>
