@@ -1,62 +1,73 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=120&section=header&text=GECKCORE&fontSize=60&fontColor=000000&fontAlignY=45&desc=AI%20ABUSER&descAlignY=75&descSize=20"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Ingeniería+Inversa;Desarrollo+de+Bots;Manipulación+de+Algoritmos;Automatización+de+Sistemas" alt="Typing SVG" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=GECKCORE&fontSize=80&fontColor=00FF00&desc=AI%20ABUSER%20//%20SYSTEM%20FORENSICS&descAlignY=75&descSize=20&stroke=00FF00&strokeWidth=2"/>
 
 <br>
 
-*Adaptabilidad orgánica. Precisión sintética. Operando al límite de los sistemas automatizados.*
+<table>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://raw.githubusercontent.com/GeckCore/GeckCore/main/assets/214883088.jpg" width="220" style="border-radius: 15px; border: 2px solid #00FF00;"/>
+    </td>
+    <td width="600">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=500&color=00FF00&width=500&lines=SYSTEM+FORENSICS;WHATSAPP+AUTOMATION;REVERSE+ENGINEERING;AI+ABUSE" alt="Typing SVG" />
+      </a>
+      <p><b>Bio-Electronic Intelligence.</b> Operando en los límites de la automatización. Si un sistema tiene una métrica, puede ser auditada. Si tiene una barrera, puede ser saltada.</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-### ⚙️ NÚCLEO OPERATIVO
-
-Diseño arquitecturas orientadas a romper barreras estadísticas, automatizar interacciones en redes y realizar análisis forense de datos. Rendimiento crudo, sin fricción.
+### 🟢 REPOS CRÍTICOS (SISTEMAS DESPLEGADOS)
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,docker,linux,github,bash,regex,selenium,js,nodejs,postgres&theme=dark" />
-</a>
+| [🕵️ star-forensics](https://github.com/GeckCore/star-forensics) | [🤖 WeBot (WhatsApp)](https://github.com/GeckCore/WeBot) |
+| :---: | :---: |
+| <a href="https://github.com/GeckCore/star-forensics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GeckCore&repo=star-forensics&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=000000&border_color=00ff00" /></a> | <a href="https://github.com/GeckCore/WeBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GeckCore&repo=WeBot&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=000000&border_color=00ff00" /></a> |
 
 </div>
 
 ---
 
-### 📊 TELEMETRÍA
+### ⚡ TELEMETRÍA DE ACTIVIDAD
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GeckCore&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000&border_color=00ff00" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeckCore&layout=compact&theme=dark&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000&border_color=00ff00" width="350" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeckCore&theme=dark&background=000000&ring=00ff00&fire=00ff00&currStreakNum=ffffff&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff&stroke=00ff00&border=00ff00" width="765" />
+</div>
+
+---
+
+### 🛠 TECH STACK (KERNEL)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000&border_color=00ff00" alt="GitHub Stats" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=dark&hide_border=false&background=000000&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff&stroke=00ff00&border=00ff00" alt="GitHub Streak" width="48%">
+| Core | Tools | Infrastructure |
+| :--- | :--- | :--- |
+| `Python` `Node.js` `Bash` | `Git` `Regex` `Selenium` | `Linux` `Docker` `Redis` |
+
+<br>
+
+[![Stack](https://skillicons.dev/icons?i=py,js,nodejs,linux,docker,bash,github,postgres,redis,selenium&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### 🔬 SISTEMAS DESPLEGADOS
-
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO_AQUI/star-forensics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO_AQUI&repo=star-forensics&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=000000&border_color=00ff00" alt="Star Forensics">
-</a>
+`>> ESTABLECIENDO CONEXIÓN...`
 
-<a href="https://github.com/TU_USUARIO_AQUI/otro-repo-tuyo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO_AQUI&repo=otro-repo-tuyo&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=000000&border_color=00ff00" alt="Repo 2">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<a href="mailto:tu-correo@ejemplo.com">
-  <img src="https://img.shields.io/badge/LINK-ESTABLECER_CONEXIÓN-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF00&borderColor=00FF00" />
-</a>
+[![](https://img.shields.io/badge/Neural_Link-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000&borderColor=00FF00)](https://github.com/GeckCore)
+[![](https://img.shields.io/badge/Transmission-Email-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF00&labelColor=000000&borderColor=00FF00)](mailto:tu-correo@geckcore.io)
 
 </div>
