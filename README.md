@@ -13,7 +13,7 @@
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=500&color=00FF00&width=500&lines=SYSTEM+FORENSICS;WHATSAPP+AUTOMATION;REVERSE+ENGINEERING;AI+ABUSE" alt="Typing SVG" />
       </a>
-      <p><b>Bio-Electronic Intelligence.</b> Operando en los límites de la automatización. Si un sistema tiene una métrica, puede ser auditada. Si tiene una barrera, puede ser saltada.</p>
+      <p><b>Bio-Electronic Intelligence.</b> Operating at the edge of automation. If a system has a metric, it can be audited. If it has a barrier, it can be bypassed. Focusing on high-performance bots and forensic data analysis.</p>
     </td>
   </tr>
 </table>
@@ -22,7 +22,7 @@
 
 ---
 
-### 🟢 REPOS CRÍTICOS (SISTEMAS DESPLEGADOS)
+### 🟢 CRITICAL REPOS (DEPLOYED SYSTEMS)
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 ---
 
-### ⚡ TELEMETRÍA DE ACTIVIDAD
+### ⚡ ACTIVITY TELEMETRY
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GeckCore&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000&border_color=00ff00" width="410" />
@@ -65,8 +65,9 @@
 
 <div align="center">
 
-`>> ESTABLECIENDO CONEXIÓN...`
+`>> ESTABLISHING CONNECTION...`
 
 [![](https://img.shields.io/badge/Neural_Link-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000&borderColor=00FF00)](https://github.com/GeckCore)
+[![](https://img.shields.io/badge/Transmission-Email-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF00&labelColor=000000&borderColor=00FF00)](mailto:contact@geckcore.io)
 
 </div>
